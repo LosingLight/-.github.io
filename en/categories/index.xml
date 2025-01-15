@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Example Site</title>
-        <link>https://%E9%9D%92%E7%81%AF%E4%BC%B4%E5%8F%A4%E4%BD%9B.github.io/github.io/en/categories/</link>
+        <link>https://github.com/LosingLight/-.github.io.git/en/categories/</link>
         <description>Recent content in Categories on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>明灯伴古佛</copyright><atom:link href="https://%E9%9D%92%E7%81%AF%E4%BC%B4%E5%8F%A4%E4%BD%9B.github.io/github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>明灯伴古佛</copyright><atom:link href="https://github.com/LosingLight/-.github.io.git/en/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
